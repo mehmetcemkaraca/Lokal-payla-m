@@ -21,7 +21,7 @@ if(isset($_GET['id']) && isset($_GET['type'])) {
     $type = $_GET['type'];
 
     if ($type == 'duyuru') {
-        $sql = "SELECT * FROM Duyurular WHERE id = $id";
+        $sql = "SELECT * FROM Duyurular WHERE id = $id AND gorunurluk_durumu = 1";
         $result = $conn->query($sql);
 
         if ($result->num_rows > 0) {
