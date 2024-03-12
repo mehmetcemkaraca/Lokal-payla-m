@@ -8,13 +8,14 @@
 </head>
 <body>
     <div class="container">
-    <?php
-<?php
+   <?php
 if(!isset($_COOKIE["kullanici"])) {
     
-        header("Location: index.php");
-        exit();
-    }
+    header("Location: index.php");
+    exit();
+}
+
+
 $servername = "localhost";
 $username = "root";
 $password = "";
