@@ -14,7 +14,7 @@ admin panelin varsayılan kullanıcı adı ve şifresi admin admin dir.
 <h2>KURULUM:</h2>
 <p>
 öncelikle kullandığınız SQL sunucusundan site isminde bir veri tabanı oluşturun.
-sql.txt adlı dosyada bulunan sql kodlarını içeriye aktarın.
+ SQL_table.sql adlı dosyada bulunan sql kodlarını içeriye aktarın.
 
   
 </p>
