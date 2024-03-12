@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="container">
-    <?php
+   
 <?php
 if(!isset($_COOKIE["kullanici"])) {
     
