@@ -1,0 +1,1 @@
+buraya pdf dosyalarını kopyalayın ve linki eklerken localhost/pdf/dosya.pdf gibi yapın
