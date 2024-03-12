@@ -6,7 +6,7 @@
 <img src="https://swrt.org/wp-content/uploads/2020/04/paypal-donate-button.png" alt="Bağış Yap" width="150">
 
 <br>
-<b>Bu script  kurum içerisinde duyuru ve PDF dosya paylaşmanıza olanak sağlar.
+<b>Bu script  local ağda içerisinde duyuru ve PDF dosya paylaşmanıza olanak sağlar.
 admin panelin varsayılan kullanıcı adı ve şifresi admin admin dir.
   
 </b>
