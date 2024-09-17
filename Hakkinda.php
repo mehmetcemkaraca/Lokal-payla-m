@@ -60,18 +60,7 @@
         </select>
     </nav>
    
-           <center><b>Bu web sitesi mehmet cem karaca tarafından yazılmıştır..</b> <br> <a href="https://github.com/mehmetcemkr">Github Adresim.</a><br> iletişim:mehmetcemkr@gmail.com <br><image src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx9vpeumdDmlxSIpE-o5PI-d5BlzYCEbBz_o5JdsFD0A&s"> </br>
-<b>bağış yaparak projelerime destek olabilirsiniz.
-  
-</b> </br>
 
-<div class="card" style="width: 18rem;">
-  <div class="card-body">
-    
-    <p class="card-text">TR69 0001 0024 2586 9454 5950 01</p>
-   
-  </div>
-</div>
 
 
 </center>
